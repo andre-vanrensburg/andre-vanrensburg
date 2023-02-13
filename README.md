@@ -13,7 +13,7 @@ I have over 20 years of experience in the IT field, with a passion for software 
 
 In 2006, I became certified as an I.T Service Engineer through an apprenticeship with PartServe, one of the largest I.T companies in South Africa. I worked as an Service Engineer for a few years before focusing on web development, recognizing the increasing importance of the internet in everyday life. By 2009, I had completed my first website and began my professional career in web development.
 
-Currently, I am a permanent employee of the South African Government's Department of Higher Education and Training, where I serve as both an I.T Engineer and a Web Developer.
+Currently, I am a permanent employee of the South African Government's Department of Higher Education and Training, where I work as both an I.T Engineer and a Web Developer.
 
 In my free time, I enjoy spending quality time with my family, playing guitar, watching professional skateboarding, and indulging my passion for chess. I am always looking for new ways to challenge myself and expand my skill set.
 
